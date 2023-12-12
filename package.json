@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/FerOuvina/learning-nodejs#readme",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "zod": "3.22.4"
   },
   "devDependencies": {
     "eslint": "^8.55.0",
